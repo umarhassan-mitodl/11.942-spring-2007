@@ -1,0 +1,61 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Environmental Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Climate Studies"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Microeconomics"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Sustainability"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Environmental Policy"
+    ]
+  ],
+  "legacy_uid": "2b15a801-1b84-cc78-1fad-6f142d6dfe86",
+  "instructors": {
+    "content": [
+      "ab5232ac-0acb-ff5e-5d04-b7218fa4cb0f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b708e663-4d04-d76a-876a-b619805a852a",
+    "website": "11-942-regional-energy-environmental-economic-modeling-spring-2007"
+  },
+  "course_title": "Regional Energy-Environmental Economic Modeling",
+  "course_description": "This subject is on regional energy-environmental modeling rather than on general energy-environmental policies, but the models should have some policy relevance. We will start with some discussion of green accounting issues; then, we will cover a variety of theoretical and empirical topics related to spatial energy demand and supply, energy forecasts, national and regional energy prices, and environmental implications of regional energy consumption and production. Where feasible, the topics will have a spatial dimension. This is a new seminar, so we expect students to contribute material to the set of readings and topics covered during the semester.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.942",
+  "course_image_thumbnail": {
+    "content": "b25fa523-dfcd-11cc-01fd-adb3cce3b1cd",
+    "website": "11-942-regional-energy-environmental-economic-modeling-spring-2007"
+  },
+  "learning_resource_types": [],
+  "site_uid": "61cb6c87-79d5-43a3-b6ff-26d255017622",
+  "site_short_id": "11.942-spring-2007",
+  "site_url_path": "courses/11-942-regional-energy-environmental-economic-modeling-spring-2007",
+  "title": "Course Metadata"
+}
