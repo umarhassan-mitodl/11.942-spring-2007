@@ -29,7 +29,7 @@ Overview of regional sustainable development issues
 Sustainable energy and environmental systems
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "3e21766c-0461-443a-8a24-371873ac6a08" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Tester, Jefferson, Elisabeth Drake, Michael Driscoll, Michael Golay, and William Peters. “Sustainable Energy: The Engine of Sustainable Development.” In {{% resource_link "3e21766c-0461-443a-8a24-371873ac6a08" "*Sustainable Energy: Choosing Among Options*" %}}. Cambridge, MA: MIT Press, 2005, pp. 1-50. ISBN: 978-0262201537.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/sustainable-energy) Tester, Jefferson, Elisabeth Drake, Michael Driscoll, Michael Golay, and William Peters. “Sustainable Energy: The Engine of Sustainable Development.” In [*Sustainable Energy: Choosing Among Options*](https://mitpress.mit.edu/books/sustainable-energy). Cambridge, MA: MIT Press, 2005, pp. 1-50. ISBN: 978-0262201537.
 
 Smil, Vaclav. *Energy*. Oxford, UK: One World Publications, 2006, pp. 85-126. ISBN: 978-1851684526.
 
@@ -39,7 +39,7 @@ Smil, Vaclav. *Energy*. Oxford, UK: One World Publications, 2006, pp. 85-126. IS
 Green accounting and relevance for regional modeling
 {{< tdclose >}}{{< tdopen >}}
 
-Bolt, Katherine, Giovanni Ruta, and Maria Sarraf. "Estimating the Cost of Environmental Degradation" ({{% resource_link "f196617b-c73c-43c9-879f-90a1ac15b42e" "PDF - 2.2 MB" %}}). Washington, DC: The World Bank Environment Department, 2005, pp. E1-E80.
+Bolt, Katherine, Giovanni Ruta, and Maria Sarraf. "Estimating the Cost of Environmental Degradation" ([PDF - 2.2 MB](https://www.semanticscholar.org/paper/Estimating-the-cost-of-environmental-degradation-%3A-Bolt-Ruta/74de8a6030aea3ef75b3e785eec5ea78d676b291)). Washington, DC: The World Bank Environment Department, 2005, pp. E1-E80.
 
 Hecht, Joy. *National Environmental Accounting: Bridging the Gap between Ecology and Economy*. Washington, DC: Resources for the Future, 2005, pp. 53-89. ISBN: 978-1891853944.
 
@@ -69,7 +69,7 @@ Regional energy-efficiency and environmental models, part 1
 
 Ning Ai, Zhan Guo, and Karen Polenske. "Socioeconomic Impact Analysis of Yellow-Dust Storms: An Approach and Case Study for Beijing." *Economic Systems Research*, publication forthcoming.
 
-Flynn, Edward. "{{% resource_link "c999fae8-4148-4f11-981d-d12f98370669" "Impact of Technological Change and Productivity on the Coal Market" %}}." Energy Information Administration, 2000.
+Flynn, Edward. "[Impact of Technological Change and Productivity on the Coal Market](http://www.eia.doe.gov/oiaf/analysispaper/coal.html)." Energy Information Administration, 2000.
 
 Polenske, Karen, and Xiannuan Lin. "Conserving Energy to Reduce Carbon Dioxide Emissions in China." *Structural Change and Economic Dynamics* 4, no. 2 (1993): 249-265.
 
@@ -105,7 +105,7 @@ Darwin, Roy, Marinos Tsigas, Jan Lewandrowski, and Anton Raneses. "Land Use and 
 
 Mendelsohn, R., W. Nordhaus, and D. Shaw. "The Impact of Climate Change on US Agriculture: A Ricardian Approach." *American Economic Review* 84, no. 4 (1994): 753-771.
 
-IPCC (Intergovernmental Panel on Climate Change). {{% resource_link "345becf9-5168-40c5-97d1-6ba6ac5a3e7c" "*Climate Change 2001: The Scientific Basis*" %}}.
+IPCC (Intergovernmental Panel on Climate Change). [*Climate Change 2001: The Scientific Basis*](http://old.grida.no/climate/ipcc_tar/wg1/001.htm).
 
 Izaurralde, R. Cesar, Norman Rosenberg, Robert Brown, and Allison Thomson. "Integrated Assessment of Hadley Center (HadCM2) Climate-Change Impacts on Agricultural Productivity and Irrigation Water Supply in the Conterminous United States. Part II. Regional Agriculture Production in 2030 and 2095." *Agricultural and Forest Meterology* 117, no. 1-2 (2003): 97-122.
 
@@ -127,7 +127,7 @@ Climate change models, part 2
 Linkage between environmental and energy models, part 1
 {{< tdclose >}}{{< tdopen >}}
 
-Considine, Timothy. "{{% resource_link "c4385288-34c4-4055-8c8c-3b42878422d6" "Is the Strategic Petroleum Reserve Our Ace in the Hole?" %}}" *Energy Journal* 27, no. 3 (2006): 91-112.
+Considine, Timothy. "[Is the Strategic Petroleum Reserve Our Ace in the Hole?](http://dx.doi.org//10.5547/ISSN0195-6574-EJ-Vol27-No3-6)" *Energy Journal* 27, no. 3 (2006): 91-112.
 
 Kaufmann, Robert, Stephane Dees, Pavlos Karadeloglou, and Marcelo Sanchez. "Does OPEC Matter? An Econometric Analysis of Oil Prices.” *Energy Journal* 25 (2004): 67-90.
 
